@@ -1,4 +1,4 @@
-﻿int num = 8;
+﻿int num = 7;
 defineWeekend(num);
 
 // --- Methods ---
